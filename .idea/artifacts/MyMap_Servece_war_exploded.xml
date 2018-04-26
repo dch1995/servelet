@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyMap Servece:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyMap_Servece_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyMap Servece/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyMap Servece" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
